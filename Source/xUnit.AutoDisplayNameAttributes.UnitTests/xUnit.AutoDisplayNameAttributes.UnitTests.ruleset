@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RuleSet Name="Rules for xUnit.AutoDisplayNameAttributes.UnitTests" Description="Code analysis rules for xUnit.AutoDisplayNameAttributes.UnitTests.csproj." ToolsVersion="14.0">
+  <IncludeAll Action="Warning" />
+  <Rules AnalyzerId="Microsoft.Analyzers.ManagedCodeAnalysis" RuleNamespace="Microsoft.Rules.Managed">
+    <Rule Id="CA1014" Action="None" />
+    <Rule Id="CA1034" Action="None" />
+    <Rule Id="CA1062" Action="None" />
+    <Rule Id="CA1707" Action="None" />
+    <Rule Id="CA1709" Action="None" />
+    <Rule Id="CA1822" Action="None" />
+    <Rule Id="CA2210" Action="None" />
+  </Rules>
+  <Rules AnalyzerId="Microsoft.CodeAnalysis.CSharp.Features" RuleNamespace="Microsoft.CodeAnalysis.CSharp.Features">
+    <Rule Id="IDE0001" Action="None" />
+  </Rules>
+</RuleSet>

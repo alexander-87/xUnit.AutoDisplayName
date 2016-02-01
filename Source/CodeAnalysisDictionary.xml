@@ -1,0 +1,13 @@
+﻿<Dictionary>
+  <Words>
+    <Recognized>
+      <Word>xunit</Word>
+      <Word>Params</Word>
+    </Recognized>
+  </Words>
+  <Acronyms>
+    <CasingExceptions>
+      <Acronym>xunit</Acronym>
+    </CasingExceptions>
+  </Acronyms>
+</Dictionary>
